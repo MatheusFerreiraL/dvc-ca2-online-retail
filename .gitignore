@@ -1,0 +1,17 @@
+# Data files are not shared (brief: "Do NOT upload any data"); see README for where to put the dataset
+data/
+*.xlsx
+*.xls
+*.zip
+*.csv
+
+# Jupyter and Python
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+.venv/
+venv/
+
+# OS and editor
+.DS_Store
+.~lock.*
